@@ -7,6 +7,8 @@
   <title>View of Product</title> 
 </head> 
 <body> 
-  <h1>Product View</h1> 
+  <h1>Product View</h1>
+  
+  <a href="/create"><button type="button">Add Product</button></a>
 </body> 
 </html> 
